@@ -1,0 +1,6 @@
+{
+  "name": "LIFEDROP",
+  "description": "LIFEDROP — Ultimate Blood Donation Platform. Every Drop Saves a Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

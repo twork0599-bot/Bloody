@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-lifedrop-769d03e7-b678-45fe-a80d-d5de9c2f03ec",
+      "rules": "firestore.rules"
+    }
+  ]
+}
